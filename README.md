@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MV-I
 - 👀 I’m interested in IT, Music, Art and Gaming.
-- 🌱 I’m currently learning JavaScript and Java.
-- 💞️ I’m looking to collaborate on projects that help people in need. 
+- 🌱 I’m currently learning JavaScript, Angular and Java.
+- 💞️ I’m looking to collaborate on any web development projects.
 - 📫 DM me on Twitter if you want to reach me.
 
 <!---
